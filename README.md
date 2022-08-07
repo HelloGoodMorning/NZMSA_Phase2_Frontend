@@ -1,3 +1,3 @@
 # NZMSA Phase 2 Frontend
 
-A basic React application that connects to a third part API.
+A basic React application that connects to a third party API.
